@@ -1,5 +1,5 @@
 from langchain_core.prompts import PromptTemplate
-from langchain.chains import ConversationalRetrievalChain
+from langchain-community.chains import ConversationalRetrievalChain
 
 from tutor.llm import llm
 from tutor.rag import retriever
