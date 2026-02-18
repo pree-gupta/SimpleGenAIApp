@@ -9,3 +9,4 @@ fastapi
 uvicorn
 ipykernel
 streamlit
+langchain_core
