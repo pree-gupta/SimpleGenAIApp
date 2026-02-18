@@ -1,5 +1,4 @@
 langchain
-langchain-community
 langchain-huggingface
 transformers
 sentence-transformers
@@ -9,4 +8,6 @@ fastapi
 uvicorn
 ipykernel
 streamlit
-langchain_core
+langchain-core
+langchain-community
+langchain-classic

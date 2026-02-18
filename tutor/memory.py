@@ -1,4 +1,4 @@
-from langchain.memory import ConversationBufferMemory
+from langchain_classic.memory import ConversationBufferMemory
 
 ## Make the tutor feel aware and continuous, not stateless.
 
