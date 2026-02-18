@@ -1,7 +1,7 @@
 from anyio import Path
 from langchain_community.vectorstores import FAISS
 from langchain_huggingface import HuggingFaceEmbeddings
-from langchain.chains import RetrievalQA
+from langchain_classic.chains import RetrievalQA
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from tutor.llm import llm
 from langchain_community.document_loaders import DirectoryLoader, TextLoader, PyPDFLoader
